@@ -1,2 +1,2 @@
-# todo
-Todo web app with amazing features
+# Todo App
+Todo app with amazing features
